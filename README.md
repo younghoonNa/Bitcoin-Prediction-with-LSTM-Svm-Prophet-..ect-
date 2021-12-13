@@ -6,6 +6,8 @@
 -> 일봉 말고 주봉이나 월봉? 분봉도 가눙! -> pyupbit에서 데이터 긁어오는 ohlcv의 파라메타 변경 <br>
 -> 성능? 모르겠음! 이거보다 케글에 트위터 분석하는거 있는데 그게 더 효율적일듯! <br>
 
+---
+
 Best Model : SVR (kernel='rbf') , LSTM, Prophet<br>
 
 
