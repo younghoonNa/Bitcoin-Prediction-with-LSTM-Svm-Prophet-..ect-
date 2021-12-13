@@ -2,7 +2,14 @@
 
 머신러닝 & 딥러닝을 이용한 가상화페 예측 프로그램
 
-Best Model : SVR (kernel='rbf') , LSTM, Prophet
+Best Model : SVR (kernel='rbf') , LSTM, Prophet<br>
+
+
+2021년 12월 13일 기준<br>
+Model : Prophet <br>
+2022년 12월 예측 가격 : 1억 500만   (최소 8천 3백만, 최대 1억 2천)<br>
+2026년 12월 예측 가격 : 2억 2천만   (최소 1억, 최대 3억 5천)<br>
+과연 진짜  1년, 5년뒤에는 어떻게 되있을까..? 궁금하네 <br>
 
 ---
 비트코인 예측 
