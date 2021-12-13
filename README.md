@@ -2,6 +2,8 @@
 
 머신러닝 & 딥러닝을 이용한 가상화페 예측 프로그램
 
+Best Model : SVR (kernel='rbf') , LSTM, Prophet
+
 ---
 비트코인 예측 
 <p>
