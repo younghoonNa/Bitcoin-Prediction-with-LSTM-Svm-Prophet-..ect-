@@ -1,6 +1,7 @@
 # Machine_Leraning-Bitcoin-Price-Production
 
 머신러닝 & 딥러닝을 이용한 가상화페 예측 프로그램 <br>
+ <img width="50%" src="https://user-images.githubusercontent.com/38518648/145906341-6af853f6-c2c1-419c-9b4f-851b70c71366.png"/>
 
 -> 다른 종목을 예측하고 싶다면..? 시작부분에 KRW-BTC(비트코인) -> KRW-DOGE (도지코인) 으로 변경 . <br> 
 -> 일봉 말고 주봉이나 월봉? 분봉도 가눙! -> pyupbit에서 데이터 긁어오는 ohlcv의 파라메타 변경 <br>
