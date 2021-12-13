@@ -1,6 +1,10 @@
 # Machine_Leraning-Bitcoin-Price-Production
 
-머신러닝 & 딥러닝을 이용한 가상화페 예측 프로그램
+머신러닝 & 딥러닝을 이용한 가상화페 예측 프로그램 <br>
+
+-> 다른 종목을 예측하고 싶다면..? 시작부분에 KRW-BTC(비트코인) -> KRW-DOGE (도지코인) 으로 변경 . <br> 
+-> 일봉 말고 주봉이나 월봉? 분봉도 가눙! -> pyupbit에서 데이터 긁어오는 ohlcv의 파라메타 변경 <br>
+-> 성능? 모르겠음! 이거보다 케글에 트위터 분석하는거 있는데 그게 더 효율적일듯! <br>
 
 Best Model : SVR (kernel='rbf') , LSTM, Prophet<br>
 
