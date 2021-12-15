@@ -1,4 +1,4 @@
-# Machine_Leraning-Bitcoin-Price-Production
+# Machine_Leraning & RNN_LSTM - Bitcoin-Price-Production
 
 머신러닝 & 딥러닝을 이용한 가상화페 예측 프로그램 <br>
  <img width="50%" src="https://user-images.githubusercontent.com/38518648/145906341-6af853f6-c2c1-419c-9b4f-851b70c71366.png"/>
