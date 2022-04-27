@@ -5,6 +5,10 @@
 <br>
 <br>
 
+- 참고 논문
+ - [An Advanced CNN-LSTM Model for Cryptocurrency Forecasting](https://webcache.googleusercontent.com/search?q=cache:wIflnDOSC8EJ:https://www.mdpi.com/2079-9292/10/3/287/pdf+&cd=9&hl=ko&ct=clnk&gl=kr)
+ - [비트코인 트랜잭션 수 예측을 위한 LSTM 모델 설계](https://nmlab.korea.ac.kr/publication/published.papers/2019/2019.06-BitCoin_Transaction_Prediction-KICS2019.pdf)
+
 ### 주요 예측방법.
 1. LSTM
 2. Prophet 모델 사용
